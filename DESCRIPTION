@@ -1,0 +1,13 @@
+Package: maketools
+Type: Package
+Title: Enhances the Remake Package
+Version: 0.1.0
+Author: David Holstius
+Maintainer: David Holstius <david.holstius@gmail.com>
+Description: Enhances the Remake package
+License: MIT
+Depends: 
+  remake
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
